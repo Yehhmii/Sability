@@ -74,6 +74,7 @@ that actually *sends* a push from the backend when a signal changes
 - Please allow acces to our mic and location when asked.
 - Ensure you pronouce the location you are talking about clearly for better transcrption of your message.
 - The app works best on mobile devices.
+- click the three dot to be able to install it on your device for the best experience.
 
 
 ## With more time
