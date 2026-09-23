@@ -70,6 +70,9 @@ that actually *sends* a push from the backend when a signal changes
 - Light mode is the default and primary experience per the design brief; dark mode exists as a
   CSS variable set (`:root` vs `[data-theme="dark"]`) but there's no visible toggle wired up yet.
 
+## NOTE
+- Please allow acces to our mic and location when asked.
+
 ## With more time
 - setup push notification module 
 - installation from the web to users device 
