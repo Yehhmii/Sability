@@ -72,6 +72,9 @@ that actually *sends* a push from the backend when a signal changes
 
 ## NOTE
 - Please allow acces to our mic and location when asked.
+- Ensure you pronouce the location you are talking about clearly for better transcrption of your message.
+- The app works best on mobile devices.
+
 
 ## With more time
 - setup push notification module 
